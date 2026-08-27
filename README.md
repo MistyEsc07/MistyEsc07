@@ -1,4 +1,20 @@
-## Hi there 👋
+## Formação acadêmica
+
+- UDF – Centro Universitário do Distrito
+Federal
+
+- Graduação em Ciência da Computação
+2° período – Em andamento
+
+- SENAC – Serviço Nacional de
+Aprendizagem Comercial
+Curso de Aprendizagem Profissional de
+Qualificação em Serviços Administrativos
+Concluído (Carga Horária de 1.232 horas)
+
+CEAN - Centro de Ensino Médio da
+Asa Norte
+Ensino Médio concluído
 
 <!--
 **mariaeduardaescobarciprianobr-sudo/mariaeduardaescobarciprianobr-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
