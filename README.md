@@ -1,4 +1,4 @@
-#Eu
+# Eu
 
 ## Formação acadêmica
 
@@ -18,14 +18,14 @@ Concluído (Carga Horária de 1.232 horas)
 Asa Norte
 Ensino Médio concluído
 ------------------
-##COMPETÊNCIAS ADMINISTRATIVA
+## COMPETÊNCIAS ADMINISTRATIVA
 - Organização de documentos e arquivos
 - Apoio a rotinas administrativas
 - Atendimento ao público
 - Gestão e organização de agendas
 - Noções de processos administrativos
   
-##COMPETÊNCIAS TECNOLÓGICAS
+## COMPETÊNCIAS TECNOLÓGICAS
 - Facilidade no uso de tecnologias digitais
 - Pacote Office (Word, Excel e PowerPoint) –
 básico/intermediário
@@ -34,7 +34,7 @@ computacionais
 - Aprendizagem rápida de novas ferramentas
 digitais
 
-##COMPETÊNCIAS COMPORTAMENTAIS
+## COMPETÊNCIAS COMPORTAMENTAIS
 - Organização e responsabilidade
 - Proatividade
 - Trabalho em equipe
