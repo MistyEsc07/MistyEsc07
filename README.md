@@ -1,5 +1,5 @@
 # Eu
-
+------------------
 ## Formação acadêmica
 
 - UDF – Centro Universitário do Distrito
@@ -31,6 +31,7 @@ Ensino Médio concluído
 básico/intermediário
 - Noções de informática e sistemas
 computacionais
+- PYTHON
 - Aprendizagem rápida de novas ferramentas
 digitais
 
@@ -41,6 +42,42 @@ digitais
 - Boa comunicação
 - Facilidade de aprendizagem
 - Comprometimento com resultados
+---------------------
+# EXPERIÊNCIA PROFISSIONAL
+##FINATEC – Fundação de Empreendimentos
+Científicos e Tecnológicos (UnB)
+
+- Aprendiz Administrativa (Ago/2023 a Out/2024)
+
+- Apoio às rotinas administrativas
+
+- Organização e arquivamento de documentos
+
+- Suporte às equipes técnicas e administrativas
+
+- Apoio em atividades de escritório e organização de processos
+
+- Participação em capacitações institucionais
+
+## Salão de Beleza Coisa MaisLinda – Asa Norte
+- Atendente (Dez/2021 – Dezembro/2022)
+
+- Atendimento ao público
+
+- Organização de agenda
+
+- Recebimento de pagamentos (cartão e Pix)
+
+- Apoio a gestão de mídias sociais e cronograma de conteúdo.
+
+## Associação Criança Feliz – Guará
+- Voluntária
+
+- Organização de doações
+
+- Triagem de itens recebidos
+
+- Montagem de kits para famílias em situação de vulnerabilidade
 <!--
 **mariaeduardaescobarciprianobr-sudo/mariaeduardaescobarciprianobr-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
