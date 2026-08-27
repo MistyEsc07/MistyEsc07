@@ -44,7 +44,7 @@ digitais
 - Comprometimento com resultados
 ---------------------
 # EXPERIÊNCIA PROFISSIONAL
-##FINATEC – Fundação de Empreendimentos
+## FINATEC – Fundação de Empreendimentos
 Científicos e Tecnológicos (UnB)
 
 - Aprendiz Administrativa (Ago/2023 a Out/2024)
