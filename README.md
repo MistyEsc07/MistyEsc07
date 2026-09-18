@@ -3,9 +3,7 @@
 ## Formação acadêmica
 
 - UDF – Centro Universitário do Distrito
-Federal
-
-- Graduação em Ciência da Computação
+Federal - Graduação em Ciência da Computação
 2° período – Em andamento
 
 - SENAC – Serviço Nacional de
