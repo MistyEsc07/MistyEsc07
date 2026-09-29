@@ -1,4 +1,6 @@
 # Eu
+
+- Sou Maria Eduarda, aluna ativa da universidade federal de Brasília na área de Ciências da Computação. Atualmente estou a conhecer as áreas de tecnologia, mas com interesse atual em back-and e suporte técnico. Espero aprender mais na prática, dividindo conhecimentos com outros profissionais de mais carreira.
 ------------------
 ## Formação acadêmica
 
