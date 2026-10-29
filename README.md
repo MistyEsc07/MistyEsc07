@@ -1,10 +1,10 @@
-# Olá! Eu sou a Maria Eduarda (Misty) 👋
-
-🎓 Estudante de Ciência da Computação no Centro Universitário do Distrito Federal (UDF).
+# 🎓 Estudante de Ciência da Computação no Centro Universitário do Distrito Federal (UDF).
 
 Sou uma estudante da área de tecnologia que está desenvolvendo seus conhecimentos em programação, desenvolvimento web e banco de dados. Utilizo este perfil para compartilhar meus projetos acadêmicos, registrar minha evolução técnica e colocar em prática os conhecimentos adquiridos durante a graduação.
 
-Atualmente, tenho interesse em desenvolvimento de software, especialmente Back-end, e busco aprimorar minhas habilidades por meio de projetos práticos e aprendizado contínuo.
+Atualmente, tenho interesse em desenvolvimento de software, especialmente Back-end, e busco aprimorar minhas habilidades por meio de projetos práticos e aprendizado contínuo, desenvolvendo minhas habilidades em programação, aprofundar meus conhecimentos em software e banco de dados e construir um portfólio que demonstre minha evolução técnica.
+
+Também busco aprender com outros profissionais, conhecer boas práticas de desenvolvimento e, futuramente, contribuir com projetos colaborativos e iniciativas de código aberto.
 
 ## 💻 Tecnologias e ferramentas
 
@@ -39,18 +39,8 @@ Atualmente, tenho interesse em desenvolvimento de software, especialmente Back-e
 - **Ciência da Computação** — Centro Universitário do Distrito Federal (UDF), em andamento.
 - **Formação em Serviços Administrativos** — SENAC.
 
-## 🎯 Objetivos profissionais
-
-Meu objetivo é continuar desenvolvendo minhas habilidades em programação, aprofundar meus conhecimentos em desenvolvimento de software e banco de dados e construir um portfólio que demonstre minha evolução técnica.
-
-Também busco aprender com outros profissionais, conhecer boas práticas de desenvolvimento e, futuramente, contribuir com projetos colaborativos e iniciativas de código aberto.
-
 ## 📫 Contato
 
 - 💼 LinkedIn: [Maria Eduarda Escobar Cipriano](https://www.linkedin.com/in/maria-eduarda-escobar-cipriano-061220400/)
 - 📧 E-mail: [mariaeduardaescobarciprianobr@gmail.com](mailto:mariaeduardaescobarciprianobr@gmail.com)
 - 🐙 GitHub: [MistyEsc07](https://github.com/MistyEsc07)
-
----
-
-⭐ Obrigada por visitar meu perfil! Este espaço acompanha minha jornada de aprendizado e desenvolvimento na área de tecnologia.
