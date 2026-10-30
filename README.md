@@ -1,8 +1,8 @@
 # 🎓 Estudante de Ciência da Computação no Centro Universitário do Distrito Federal (UDF).
 
-Sou uma estudante da área de tecnologia que está desenvolvendo seus conhecimentos em programação, desenvolvimento web e banco de dados. Utilizo este perfil para compartilhar meus projetos acadêmicos, registrar minha evolução técnica e colocar em prática os conhecimentos adquiridos durante a graduação.
+Sou da área de tecnologia, estou desenvolvendo meus conhecimentos em programação, desenvolvimento web e banco de dados. Utilizo este perfil para compartilhar meus projetos acadêmicos, registrar minha evolução técnica e colocar em prática os conhecimentos adquiridos durante a graduação.
 
-Atualmente, tenho interesse em desenvolvimento de software, especialmente Back-end, e busco aprimorar minhas habilidades por meio de projetos práticos e aprendizado contínuo, desenvolvendo minhas habilidades em programação, aprofundar meus conhecimentos em software e banco de dados e construir um portfólio que demonstre minha evolução técnica.
+Atualmente, tenho interesse em desenvolvimento de software, especialmente Back-end, e busco aprimorar minhas habilidades por meio de projetos práticos e aprendizado contínuo, desenvolvendo minhas habilidades em programação, aprofundar meus conhecimentos em software, hardware como suporte técnico e em construir um portfólio que demonstre minha evolução técnica.
 
 Também busco aprender com outros profissionais, conhecer boas práticas de desenvolvimento e, futuramente, contribuir com projetos colaborativos e iniciativas de código aberto.
 
