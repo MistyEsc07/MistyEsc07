@@ -1,45 +1,87 @@
-# 🎓 Estudante de Ciência da Computação no Centro Universitário do Distrito Federal (UDF).
+markdown
+<div align="center">
 
-Sou da área de tecnologia, estou desenvolvendo meus conhecimentos em programação, desenvolvimento web e banco de dados. Utilizo este perfil para compartilhar meus projetos acadêmicos, registrar minha evolução técnica e colocar em prática os conhecimentos adquiridos durante a graduação.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:781F24,50:E85B32,100:F6C453&height=190&section=header&text=Misty&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=CODE%20%E2%80%A2%20CREATE%20%E2%80%A2%20EVOLVE&descAlignY=58&descSize=17"/>
 
-Atualmente, tenho interesse em desenvolvimento de software, especialmente Back-end, e busco aprimorar minhas habilidades por meio de projetos práticos e aprendizado contínuo, desenvolvendo minhas habilidades em programação, aprofundar meus conhecimentos em software, hardware como suporte técnico e em construir um portfólio que demonstre minha evolução técnica.
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=3000&pause=1000&color=E85B32&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Misty!;Computer+Science+Student;Learning%2C+Creating+and+Developing."/>
 
-Também busco aprender com outros profissionais, conhecer boas práticas de desenvolvimento e, futuramente, contribuir com projetos colaborativos e iniciativas de código aberto.
+</div>
 
-## 💻 Tecnologias e ferramentas
+---
 
-### Linguagens e desenvolvimento web
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## ✦ About me
 
-### Banco de dados
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
+Olá! Sou **Misty**, estudante de **Ciência da Computação na UDF**.
 
-### Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+Atualmente, estou construindo minha jornada na tecnologia, explorando diferentes áreas da programação e desenvolvendo projetos acadêmicos e pessoais.
 
-*As tecnologias apresentadas representam ferramentas com as quais tive contato durante meus estudos e projetos acadêmicos.*
+Tenho interesse em desenvolvimento Back-end, banco de dados e suporte técnico. Acredito que cada projeto é uma oportunidade de aprender, experimentar e evoluir.
 
-## 🚀 Projetos acadêmicos
+- 🎓 Ciência da Computação — UDF
+- 💻 Explorando desenvolvimento de software.
+- 🌱 Aprendendo e aprimorando minhas habilidades.
+- ✨ Transformando ideias em projetos.
 
-- **[Desenvolvimento Front-end para Web](https://github.com/MistyEsc07/Desenvolvimento_Front-end_para_Web)** — atividades e projetos de desenvolvimento web com HTML, CSS e Bootstrap.
-- **[Algoritmos e Pensamento Computacional](https://github.com/MistyEsc07/Algoritmo_e_Pensamento_Computacional)** — exercícios e programas desenvolvidos durante os estudos de lógica de programação e linguagem C.
-- **[Modelagem de Banco de Dados](https://github.com/MistyEsc07/Modelagem_Banco_de_Dados)** — atividades relacionadas à estruturação e à modelagem de bancos de dados.
-- **[Modelo de Estoque](https://github.com/MistyEsc07/Modelo_estoque)** — projeto acadêmico voltado à organização de um modelo de controle de estoque.
+---
 
-## 🎓 Formação acadêmica
+## ✦ My technologies
 
-- **Ciência da Computação** — Centro Universitário do Distrito Federal (UDF), em andamento.
-- **Formação em Serviços Administrativos** — SENAC.
+<div align="center">
 
-## 📫 Contato
+<img src="https://skillicons.dev/icons?i=python,c,html,css,bootstrap,mysql,git,github,vscode&theme=dark" />
 
-- 💼 LinkedIn: [Maria Eduarda Escobar Cipriano](https://www.linkedin.com/in/maria-eduarda-escobar-cipriano-061220400/)
-- 📧 E-mail: [mariaeduardaescobarciprianobr@gmail.com](mailto:mariaeduardaescobarciprianobr@gmail.com)
-- 🐙 GitHub: [MistyEsc07](https://github.com/MistyEsc07)
+</div>
+
+---
+
+## ✦ Featured projects
+
+Alguns dos projetos desenvolvidos durante minha trajetória acadêmica:
+
+| Projeto | Descrição |
+|:---|:---|
+| [Algoritmo e Pensamento Computacional](https://github.com/MistyEsc07/Algoritmo_e_Pensamento_Computacional) | Fundamentos da lógica de programação e algoritmos. |
+| [Desenvolvimento Front-end](https://github.com/MistyEsc07/Desenvolvimento_Front-end_para_Web) | Projetos utilizando HTML, CSS e Bootstrap. |
+| [Modelagem de Banco de Dados](https://github.com/MistyEsc07/Modelagem_Banco_de_Dados) | Modelagem e estruturação de bancos de dados. |
+| [Modelo Estoque](https://github.com/MistyEsc07/Modelo_estoque) | Projeto inicial de programação voltado ao controle de estoque. |
+
+---
+
+## ✦ GitHub statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MistyEsc07&show_icons=true&hide_border=true&bg_color=1A1010&title_color=F6C453&text_color=F5DCCB&icon_color=E85B32&include_all_commits=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MistyEsc07&layout=compact&hide_border=true&bg_color=1A1010&title_color=F6C453&text_color=F5DCCB" />
+
+<br/>
+
+<img width="65%" src="https://streak-stats.demolab.com?user=MistyEsc07&hide_border=true&background=1A1010&ring=F6C453&fire=E85B32&currStreakLabel=F6C453&sideLabels=F5DCCB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=BFA99A" />
+
+</div>
+
+---
+
+## ✦ Let's connect!
+
+<div align="center">
+
+<a href="https://github.com/MistyEsc07">
+<img src="https://img.shields.io/badge/GitHub-MistyEsc07-781F24?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/maria-eduarda-escobar-cipriano-061220400">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-E85B32?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+<div align="center">
+
+### "Every line of code is another step forward."
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:781F24,50:E85D32,100:F6C453&height=100&section=footer"/>
+
+</div>
+```
