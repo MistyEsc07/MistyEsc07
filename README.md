@@ -9,7 +9,7 @@
 
 ---
 
-## ✦ About me
+## ✦ Sobre mim
 
 Olá! Sou **Misty**, estudante de **Ciência da Computação na UDF**.
 
@@ -24,7 +24,7 @@ Tenho interesse em desenvolvimento de software, banco de dados e desenvolvimento
 
 ---
 
-## ✦ My technologies
+## ✦ Meus conhecimentos
 
 <div align="center">
 
@@ -34,7 +34,7 @@ Tenho interesse em desenvolvimento de software, banco de dados e desenvolvimento
 
 ---
 
-## ✦ Featured projects
+## ✦ Meus Projetos
 
 Alguns dos projetos desenvolvidos durante minha trajetória acadêmica:
 
@@ -47,7 +47,7 @@ Alguns dos projetos desenvolvidos durante minha trajetória acadêmica:
 
 ---
 
-## ✦ GitHub activity
+## ✦ Atividades no GitHub
 
 <div align="center">
 
@@ -57,7 +57,7 @@ Alguns dos projetos desenvolvidos durante minha trajetória acadêmica:
 
 ---
 
-## ✦ GitHub statistics
+## ✦ Estatísticas do GitHub
 
 <div align="center">
 
@@ -71,9 +71,13 @@ Alguns dos projetos desenvolvidos durante minha trajetória acadêmica:
 
 ---
 
-## ✦ Let's connect!
+## ✦ Se conecte comigp!
 
 <div align="center">
+
+<a href="https://wa.me/5561994463895">
+<img src="https://img.shields.io/badge/WhatsApp-Contact-E85B32?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 
 <a href="https://github.com/MistyEsc07">
 <img src="https://img.shields.io/badge/GitHub-MistyEsc07-781F24?style=for-the-badge&logo=github&logoColor=white"/>
@@ -82,6 +86,7 @@ Alguns dos projetos desenvolvidos durante minha trajetória acadêmica:
 <a href="https://linkedin.com/in/maria-eduarda-escobar-cipriano-061220400">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-E85B32?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 
 </div>
 
