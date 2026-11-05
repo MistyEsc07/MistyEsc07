@@ -11,7 +11,7 @@
 
 ## ✦ Sobre mim
 
-Olá! Sou **Maria Eduarda**, estudante de **Ciência da Computação na UDF**.
+Olá! Sou **Maria Eduarda**, mas atendo por um apelido **Misty**, estudante de **Ciência da Computação na UDF**.
 
 Atualmente, estou construindo minha jornada na tecnologia, explorando diferentes áreas da programação e desenvolvendo projetos acadêmicos e pessoais.
 
