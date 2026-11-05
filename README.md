@@ -11,7 +11,7 @@
 
 ## ✦ Sobre mim
 
-Olá! Sou **Misty**, estudante de **Ciência da Computação na UDF**.
+Olá! Sou **Maria Eduarda**, estudante de **Ciência da Computação na UDF**.
 
 Atualmente, estou construindo minha jornada na tecnologia, explorando diferentes áreas da programação e desenvolvendo projetos acadêmicos e pessoais.
 
@@ -71,13 +71,9 @@ Alguns dos projetos desenvolvidos durante minha trajetória acadêmica:
 
 ---
 
-## ✦ Se conecte comigp!
+## ✦ Se conecte comigo!
 
 <div align="center">
-
-<a href="https://wa.me/5561994463895">
-<img src="https://img.shields.io/badge/WhatsApp-Contact-E85B32?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
 
 <a href="https://github.com/MistyEsc07">
 <img src="https://img.shields.io/badge/GitHub-MistyEsc07-781F24?style=for-the-badge&logo=github&logoColor=white"/>
@@ -91,8 +87,6 @@ Alguns dos projetos desenvolvidos durante minha trajetória acadêmica:
 </div>
 
 <div align="center">
-
-### "Every line of code is another step forward."
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:781F24,50:E85D32,100:F6C453&height=100&section=footer"/>
 
