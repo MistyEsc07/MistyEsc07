@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:781F24,50:E85B32,100:F6C453&height=190&section=header&text=Eduarda&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=APRENDENDO%20E%20CONHECENDO&descAlignY=58&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:781F24,50:E85B32,100:F6C453&height=190&section=header&text=Maria Eduarda&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=APRENDENDO%20E%20CONHECENDO&descAlignY=58&descSize=17"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=3000&pause=1000&color=E85B32&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Misty!;Computer+Science+Student;Always+Learning+Something+New."/>
 
