@@ -51,17 +51,7 @@ Alguns dos projetos desenvolvidos durante minha trajetória acadêmica:
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MistyEsc07&bg_color=1A1010&color=F5DCCB&line=E85B32&point=F6C453&area=true&hide_border=true&custom_title=My%20Contribution%20Graph"/>
-
-</div>
-
----
-
-## ✦ Contribution snake
-
-<div align="center">
-
-<img width="95%" src="https://raw.githubusercontent.com/MistyEsc07/MistyEsc07/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
+<img width="95%" src="https://raw.githubusercontent.com/MistyEsc07/MistyEsc07/output/github-contribution-grid-snake.svg" alt="Misty's GitHub contributions"/>
 
 </div>
 
@@ -71,13 +61,11 @@ Alguns dos projetos desenvolvidos durante minha trajetória acadêmica:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MistyEsc07&show_icons=true&hide_border=true&bg_color=1A1010&title_color=F6C453&text_color=F5DCCB&icon_color=E85B32&include_all_commits=true"/>
+<img src="https://img.shields.io/github/followers/MistyEsc07?style=for-the-badge&label=Followers&color=E85B32&logo=github" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MistyEsc07&layout=compact&hide_border=true&bg_color=1A1010&title_color=F6C453&text_color=F5DCCB"/>
+<img src="https://img.shields.io/github/stars/MistyEsc07?style=for-the-badge&label=Stars&color=F6C453&logo=github" />
 
-<br/>
-
-<img width="65%" src="https://streak-stats.demolab.com?user=MistyEsc07&hide_border=true&background=1A1010&ring=F6C453&fire=E85B32&currStreakLabel=F6C453&sideLabels=F5DCCB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=BFA99A"/>
+<img src="https://img.shields.io/github/repos/MistyEsc07?style=for-the-badge&label=Repositories&color=781F24&logo=github" />
 
 </div>
 
@@ -104,4 +92,3 @@ Alguns dos projetos desenvolvidos durante minha trajetória acadêmica:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:781F24,50:E85D32,100:F6C453&height=100&section=footer"/>
 
 </div>
-```
