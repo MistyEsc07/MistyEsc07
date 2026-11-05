@@ -3,7 +3,7 @@ markdown
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:781F24,50:E85B32,100:F6C453&height=190&section=header&text=Misty&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=CODE%20%E2%80%A2%20CREATE%20%E2%80%A2%20EVOLVE&descAlignY=58&descSize=17"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=3000&pause=1000&color=E85B32&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Misty!;Computer+Science+Student;Learning%2C+Creating+and+Developing."/>
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=3000&pause=1000&color=E85B32&center=true&vCenter=true&width=600&lines=Hello%2C+Prazer Misty!;Computer+Science+Student;Learning%2C+Creating+and+Developing."/>
 
 </div>
 
